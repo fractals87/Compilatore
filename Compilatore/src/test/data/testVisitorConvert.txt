@@ -1,0 +1,4 @@
+float d;
+int e;
+int f;
+d=e*f;
